@@ -1,0 +1,40 @@
+/*产品*/
+.product .exp {width: 1280px; height: 428px;background-image: url(../image/exp.jpg);margin-bottom: 100px;padding-top: 80px;}
+
+.product .exp h3 {width: 635px;height: 175px;padding-top: 100px;color: white;font-family:"Open Sans", sans-serif;font-size: 2rem;font-weight: 700;line-height: 1.1;margin-left: 80px;}
+
+.product .exp p{width: 128px;height: 25px;margin-top: 20px;margin-left: 80px;color: white;font-family:"Open Sans", sans-serif;font-size: 16px;line-height: 1.5;font-weight: 300;text-decoration:underline;text-underline-position: under;}
+
+.product .exp p a{color: white;}
+
+.product .exp p a:hover{color:gray;}
+
+.product .int {width: 1280px;height: 490px;;padding-bottom: 100px;}
+
+.product .int h2 {width: 1110px;height: 35px;font-size: 32px;font-family:"Open Sans", sans-serif;margin: auto;margin-bottom: 8px;line-height: 1.1;font-weight: 700;}
+
+.product .int p {width: 1110px;height: 40px;font-size: 1.4em;font-weight: 300;line-height: 1.8em;margin: auto;margin-bottom: 1rem;font-family:"Open Sans", sans-serif;}
+
+.product .int .erji {float: left;width: 350px;height: 412px;margin-left: 85px;}
+
+.product .int .mai {float: left;width: 350px;height: 412px;margin-left: 30px;}
+
+.product .int .ld {float: left;width: 350px;height: 412px;margin-left: 30px;}
+
+.product .int .erji p {line-height: 1.1em;margin-bottom: 1rem;font-size: 1.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;width: 300px;}
+
+.product .int .mai p {line-height: 1.1em;margin-bottom: 1rem;font-size: 1.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;width: 300px;}
+
+.product .int .ld p {line-height: 1.1em;margin-bottom: 1rem;font-size: 1.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;width: 300px;}
+
+.product .follow {width: 1280px;height: 250px;margin-bottom: 100px;}
+
+.product .follow h2{font-size: 2rem;margin-bottom: 0.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;line-height: 1.1;width: 540px;margin-left: 100px;}
+
+.product .follow p{font-size: 1.4em;font-weight: 300;line-height: 1.8em;margin-bottom: 1rem;font-family: "Open Sans", sans-serif;width: 540px;margin-left: 100px;}
+
+.product .follow .form{width: 800px;margin: 30px auto;font-family: 'Microsoft YaHei';font-size: 14px;padding: 0px 15px;margin-left: 85px;margin-top: 50px;}
+
+.product .follow .form input{width: 600px;border: 1px solid #e2e2e2;height: 60px;float: left;background-image: url(images/search.jpg);background-repeat: no-repeat;background-size: 25px;background-position:5px center;padding:0 0 0 15px;font-size:1.1em;;line-height: 60px;}
+
+.product .follow .form .search{width: 94px;height: 60px;float: left;background: black;color: white;text-align: center;line-height: 60px;cursor: pointer;}

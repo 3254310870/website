@@ -1,0 +1,51 @@
+.news-whole {width: 1280px;height: 1200px;padding-top: 80px;}
+
+.news-whole .news-left {float: left;width: 800px;margin-left: 100px;margin-top: 50px;}
+
+.news-whole .news-left .n-l-t {width: 800px;}
+
+.news-whole .news-left .n-l-t .n-l-t-1 {float: left;width: 350px;margin-right: 50px;margin-bottom: 70px;}
+
+.news-whole .news-left .n-l-t .n-l-t-2 {float: left;width: 350px;margin-bottom: 70px;}
+
+.news-whole .news-left .n-l-b {width: 800px;}
+
+.news-whole .news-left .n-l-b .n-l-b-1 {float: left;width: 350px;margin-right: 50px;clear: both;}
+
+.news-whole .news-left .n-l-b .n-l-b-2 {float: left;width: 350px;}
+
+.news-whole .news-left .n-l-t .n-l-t-1 h6{font-weight: 400;color: #999;text-transform: capitalize;letter-spacing: 0.05em;font-size: 0.8em;font-family: "Open Sans", sans-serif;line-height: 1.5;margin: 10px 0px;}
+
+.news-whole .news-left .n-l-t .n-l-t-2 h6{font-weight: 400;color: #999;text-transform: capitalize;letter-spacing: 0.05em;font-size: 0.8em;font-family: "Open Sans", sans-serif;line-height: 1.5;margin: 10px 0px;}
+
+.news-whole .news-left .n-l-b .n-l-b-1 h6{font-weight: 400;color: #999;text-transform: capitalize;letter-spacing: 0.05em;font-size: 0.8em;font-family: "Open Sans", sans-serif;line-height: 1.5;margin: 10px 0px;}
+
+.news-whole .news-left .n-l-b .n-l-b-2 h6{font-weight: 400;color: #999;text-transform: capitalize;letter-spacing: 0.05em;font-size: 0.8em;font-family: "Open Sans", sans-serif;line-height: 1.5;margin: 10px 0px;}
+
+.news-whole .news-left .n-l-t .n-l-t-1 h4 {line-height: 1.1em;transition: all 0.3s;margin-bottom: 1rem;font-size: 1.5rem;font-weight: 700;font-family:inherit ;cursor: pointer;}
+
+.news-whole .news-left .n-l-t .n-l-t-2 h4 {line-height: 1.1em;transition: all 0.3s;margin-bottom: 1rem;font-size: 1.5rem;font-weight: 700;font-family:inherit ;cursor: pointer;}
+
+.news-whole .news-left .n-l-b .n-l-b-1 h4 {line-height: 1.1em;transition: all 0.3s;margin-bottom: 1rem;font-size: 1.5rem;font-weight: 700;font-family:inherit ;cursor: pointer;}
+
+.news-whole .news-left .n-l-b .n-l-b-2 h4 {line-height: 1.1em;transition: all 0.3s;margin-bottom: 1rem;font-size: 1.5rem;font-weight: 700;font-family:inherit ;cursor: pointer;}
+
+.news-whole .news-left .n-l-t .n-l-t-1 p {font-weight: 400;font-size: 0.95em;color: #6c757d!important;margin-bottom: 1rem;font-family: "Open Sans", sans-serif;line-height: 1.5;}
+
+.news-whole .news-left .n-l-t .n-l-t-2 p {font-weight: 400;font-size: 0.95em;color: #6c757d!important;margin-bottom: 1rem;font-family: "Open Sans", sans-serif;line-height: 1.5;}
+
+.news-whole .news-left .n-l-b .n-l-b-1 p {font-weight: 400;font-size: 0.95em;color: #6c757d!important;margin-bottom: 1rem;font-family: "Open Sans", sans-serif;line-height: 1.5;}
+
+.news-whole .news-left .n-l-b .n-l-b-2 p {font-weight: 400;font-size: 0.95em;color: #6c757d!important;margin-bottom: 1rem;font-family: "Open Sans", sans-serif;line-height: 1.5;}
+
+.news-whole .news-right {width: 300px;height: 300px;float: left;border: 1px #afaaaa7c solid;margin-top: 100px;margin-left: 50px;}
+
+.news-whole .news-right h3{font-size: 1rem;margin-bottom: 0.5rem;font-family: inherit;font-weight: 700;line-height: 1.1;color: inherit;margin-top: 30px;margin-left: 30px;}
+
+.news-whole .news-right div {margin-left: 30px;height: 80px;border-top: 0.5px solid #6c757d;width: 250px;}
+
+.news-whole .news-right .rn1 {margin-top: 15px;}
+
+.news-whole .news-right img {width: 80px;float: left;clear: both;margin-right: 5px;}
+
+.news-whole .news-right p {font-size: 0.95em;line-height: 1em;font-weight: 700;cursor: pointer;font-family: "Open Sans", sans-serif;color: #555;}

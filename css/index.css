@@ -1,0 +1,105 @@
+
+/*背景图与文字*/
+.index .container{width: 1280px;height: 550px;background-image: url(../image/container.jpg);padding-top: 80px;}
+
+.index .container h1{color: white;font-size: 40px;font-family:"Open Sans", sans-serif;margin-bottom: 8px;margin-left: 70px;padding-top: 250px;}
+
+.index .container p {color: white;font-size: 16px;font-family:"Open Sans", sans-serif;margin-left: 70px;margin-top: 30px;text-decoration:underline;text-underline-position: under;}
+
+.index .container p a{color: white;}
+
+.index .container p a:hover{color:gray; ;}
+
+/*企业介绍*/
+.index .who {padding: 100px 0px;padding-right: 430px;padding-left: 70px;}
+
+.index .who h2{font-size: 28px;font-family:"Open Sans", sans-serif ;margin-bottom: 10px;}
+
+.index .who h3{font-size: 22.4px;font-family:"Open Sans", sans-serif ;font-weight: lighter;line-height: 1.8em;}
+
+/*消息新闻*/
+.index .news {width: 1280px;height: 1010px;}
+
+.index .news .news1 {width: 1140px;margin: 0px 70px;background-color: #F5F5F5;}
+
+.index .news .news2 {width: 1140px;margin: 0px 70px;background-color: #fff;}
+
+.index .news .news3 {width: 1140px;margin: 0px 70px;background-color: #F5F5F5;}
+
+.index .news .news1 .w1 {float: left;width: 650px;padding-left: 25px;padding-right: 45px;background-color: #F5F5F5;height: 268px;padding-top: 80px;}
+
+.index .news .news2 .w2 {float: right;width: 650px;padding-left: 25px;padding-right: 45px;background-color: #fff;height: 258px;padding-top: 80px;}
+
+.index .news .news3 .w3 {float: left;width: 650px;padding-left: 25px;padding-right: 45px;background-color: #F5F5F5;height: 240px;padding-top: 80px;}
+
+.index .news .news1 .w1 p {font-size: 13px;font-family:"Open Sans", sans-serif;font-weight: bold;line-height: 24px;}
+
+.index .news .news2 .w2 p {font-size: 13px;font-family:"Open Sans", sans-serif;font-weight: bold;line-height: 24px;}
+
+.index .news .news3 .w3 p {font-size: 13px;font-family:"Open Sans", sans-serif;font-weight: bold;line-height: 24px;}
+
+.index .news .news1 .w1 h3 {font-size: 24px;font-family:"Open Sans", sans-serif;margin-bottom: 8px;}
+
+.index .news .news2 .w2 h3 {font-size: 24px;font-family:"Open Sans", sans-serif;margin-bottom: 8px;}
+
+.index .news .news3 .w3 h3 {font-size: 24px;font-family:"Open Sans", sans-serif;margin-bottom: 8px;}
+
+.index .news .news1 .w1 h4 {font-size: 0.95em;font-family:"Open Sans", sans-serif;font-weight: 400;color: #777;}
+
+.index .news .news2 .w2 h4 {font-size: 0.95em;font-family:"Open Sans", sans-serif;font-weight: 400;color: #777;}
+
+.index .news .news3 .w3 h4 {font-size: 0.95em;font-family:"Open Sans", sans-serif;font-weight: 400;color: #777;}
+
+.index .news .news1 .p1 {width: 420px; margin: 0px 0px;float: right;}
+
+.index .news .news2 .p2 {width: 420px; margin: 0px 0px;float: left;}
+
+.index .news .news3 .p3 {width: 420px; margin: 0px 0px;float: right;}
+
+/*产品*/
+.index .product .exp {width: 1280px; height: 428px;background-image: url(../image/exp.jpg);margin: 100px 0px;}
+
+.index .product .exp h3 {width: 635px;height: 175px;padding-top: 100px;color: white;font-family:"Open Sans", sans-serif;font-size: 2rem;font-weight: 700;line-height: 1.1;margin-left: 80px;}
+
+.index .product .exp p{width: 128px;height: 25px;margin-top: 20px;margin-left: 80px;color: white;font-family:"Open Sans", sans-serif;font-size: 16px;line-height: 1.5;font-weight: 300;text-decoration:underline;text-underline-position: under;}
+
+.index .product .exp p a{color: white;}
+
+.index .product .exp p a:hover{color:gray;}
+
+.index .product .int {width: 1280px;height: 490px;;padding-bottom: 100px;}
+
+.index .product .int h2 {width: 1110px;height: 35px;font-size: 32px;font-family:"Open Sans", sans-serif;margin: auto;margin-bottom: 8px;line-height: 1.1;font-weight: 700;}
+
+.index .product .int p {width: 1110px;height: 40px;font-size: 1.4em;font-weight: 300;line-height: 1.8em;margin: auto;margin-bottom: 1rem;font-family:"Open Sans", sans-serif;}
+
+.index .product .int .erji {float: left;width: 350px;height: 412px;margin-left: 85px;}
+
+.index .product .int .mai {float: left;width: 350px;height: 412px;margin-left: 30px;}
+
+.index .product .int .ld {float: left;width: 350px;height: 412px;margin-left: 30px;}
+
+.index .product .int .erji p {line-height: 1.1em;margin-bottom: 1rem;font-size: 1.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;width: 300px;}
+
+.index .product .int .mai p {line-height: 1.1em;margin-bottom: 1rem;font-size: 1.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;width: 300px;}
+
+.index .product .int .ld p {line-height: 1.1em;margin-bottom: 1rem;font-size: 1.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;width: 300px;}
+
+.index .product .follow {width: 1280px;height: 250px;margin-bottom: 100px;}
+
+.index .product .follow h2{font-size: 2rem;margin-bottom: 0.5rem;font-family: "Open Sans", sans-serif;font-weight: 700;line-height: 1.1;width: 540px;margin-left: 100px;}
+
+.index .product .follow p{font-size: 1.4em;font-weight: 300;line-height: 1.8em;margin-bottom: 1rem;font-family: "Open Sans", sans-serif;width: 540px;margin-left: 100px;}
+
+.index .product .follow .form{width: 800px;margin: 30px auto;font-family: 'Microsoft YaHei';font-size: 14px;padding: 0px 15px;margin-left: 85px;margin-top: 50px;}
+
+.index .product .follow .form input{width: 600px;border: 1px solid #e2e2e2;height: 60px;float: left;background-image: url(images/search.jpg);background-repeat: no-repeat;background-size: 25px;background-position:5px center;padding:0 0 0 15px;font-size:1.1em;;line-height: 60px;}
+
+.index .product .follow .form .search{width: 94px;height: 60px;float: left;background: black;color: white;text-align: center;line-height: 60px;cursor: pointer;}
+
+/*相片集*/
+.index .picture {width: 1280px;height: 200px;}
+
+.index .picture img {width: 320px;float: left;height: 200px;}
+
+/*页脚*/

@@ -1,0 +1,21 @@
+.contact {height: 1000px;padding-top: 80px;}
+
+.contact .c1 {margin-top: 40px;margin-left: 100px;}
+
+.contact .c1 h1 {font-family: 'Microsoft YaHei', Univers Next, Oswald, Helvetica, MingLiU, Verdana, sans-serif, SimSun;color:#5e5e5e ;font-weight: 500;line-height: 1.1;font-size: 25px;margin-bottom: 10px;margin: 0.67em 0;}
+
+.contact .c1 h2 {font-weight: bold;letter-spacing: 2px;line-height: 24px;color: #1b61b8;font-size: 14px;font-family: 'Microsoft YaHei',Segoe UI,sans-serif;}
+
+.contact .c1 p {font-weight: 400;color:#555;font-size: 14px;font-family: 'Microsoft YaHei',Segoe UI,sans-serif;letter-spacing: 1px;line-height: 2;}
+
+.contact .c2  {margin-top: 20px;margin-left: 100px;}
+
+.contact .c2 p {font-weight: 400;color:#555;font-size: 14px;font-family: 'Microsoft YaHei',Segoe UI,sans-serif;letter-spacing: 1px;line-height: 2;}
+
+
+
+.form{width: 800px;margin: 30px auto;font-family: 'Microsoft YaHei';font-size: 14px;padding: 0px 15px;margin-left: 85px;margin-top: 50px;}
+
+.form input{width: 600px;border: 1px solid #e2e2e2;height: 60px;float: left;background-image: url(images/search.jpg);background-repeat: no-repeat;background-size: 25px;background-position:5px center;padding:0 0 0 15px;font-size:1.1em;;line-height: 60px;}
+
+.form .search{width: 94px;height: 60px;background: black;color: white;text-align: center;line-height: 60px;cursor: pointer;clear: both;margin: 0px 0px;margin-left: 523px;}

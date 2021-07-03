@@ -1,0 +1,28 @@
+/*导航栏框架*/
+.nav{width: 1248px;height: 40px; background-color: white;padding: 20px 16px;margin: 0px 0px;border-bottom: gray 1px solid;position: fixed;}
+
+/*logo文字*/
+.nav .logo {float: left;width: 280px;height: 40px;}
+
+.nav .logo img {height: 40px;margin-left: 10px;float: left;}
+
+.nav .logo a {width: 120px;height: 20px;color: black;padding: 5px;font-size: 16px;font-family:"Open Sans", sans-serif;font-weight: bolder;line-height: 35px;}
+
+.nav .logo a:hover {color: gray;}
+
+/*导航标签*/
+.nav .nav-tag {float: left;width: 800px;height: 35px;}
+
+.nav .nav-tag ul {float: left;width: 280px;height: 35px;margin-left: 520px;list-style: none;}
+
+.nav .nav-tag ul li {float: left;font-size: 15px; font-weight: lighter;line-height: 35px;font-family: "Open Sans", sans-serif;margin: 0px 5px; padding: 0px 8px;}
+
+.nav .nav-tag ul li:hover {font-weight: bolder;}
+
+/*搜索*/
+.nav .search img{height: 25px;padding: 0px 20px;border-left: 1px #ddd solid;border-right: 1px #ddd solid;margin-top: 7px;float: left;}
+
+/*语言栏*/
+.nav .lan {width: 70px;height: 35px;float: left;padding-left: 20px;}
+
+.nav .lan p{float:left;font-size: 14px;font-family: "Open Sans", sans-serif;line-height: 35px;}
